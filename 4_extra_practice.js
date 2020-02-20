@@ -3,8 +3,7 @@
 // It's a good idea to run our code with a variety of test cases to ensure it continues working as expected
 
 // NOTE: If your original code doesn't work for some of these cases, that's okay!
-// just see what you need to do to you logic to get the listed output
-
+// just see what you need to do to your logic to get the listed output
 
 // sigma Test Cases:
 // sigma(10)                                //Expected output: 55
